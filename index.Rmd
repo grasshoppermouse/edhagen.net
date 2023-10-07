@@ -6,6 +6,8 @@ links:
     url: "https://anthro.vancouver.wsu.edu/people/hagen/"
   - label: Twitter
     url: "https://twitter.com/ed_hagen"
+  - label: Bluesky
+    url: "https://bsky.app/profile/edhagen.net"
   - label: Blog
     url: "https://blog.edhagen.net"
   - label: Email
